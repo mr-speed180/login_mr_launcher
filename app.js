@@ -1,5 +1,5 @@
 const GIST_ID = "d39503f6c557dad931747b6936c2fdb2"; // ضع رقم الـ Gist هنا (مثل: d39503f6c557dad931747b6936c2fdb2)
-const GITHUB_TOKEN = "YOUR_GITHUB_TOKEN"; // ضع الـ Personal Access Token الخاص بك هنا
+const GITHUB_TOKEN = "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"; // ضع الـ Personal Access Token الخاص بك هنا
 const FILENAME = "users.json"; // اسم الملف داخل الـ Gist الذي سيحفظ البيانات
 
 const form = document.getElementById("signupForm");
